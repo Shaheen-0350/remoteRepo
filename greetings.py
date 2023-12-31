@@ -1,2 +1,4 @@
 print("Hello World!")
-intput("Press any key to exit: ")
+name=input("What is your name?: ")
+print("Hello ", name)
+input("Press any key to exit: ")
