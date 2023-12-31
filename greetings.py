@@ -1,4 +1,5 @@
 print("Hello World!")
 name=input("What is your name?: ")
 print("Hello ", name)
+print("Have a nice day/noon/night!")
 input("Press any key to exit: ")
